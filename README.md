@@ -2,11 +2,9 @@
   <img src="assets/header.svg" alt="HELLO, WORLD. — BUILD / LEARN / SHARE" width="100%" />
 </p>
 
-<h1 align="center">川俣豊太朗</h1>
+### 川俣豊太朗
 
-<p align="center">
-  情報工学を学んでいる学生
-</p>
+情報工学を学んでいる学生
 
 ## 👋 About me
 
