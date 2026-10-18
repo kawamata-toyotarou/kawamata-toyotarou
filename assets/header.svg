@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">HELLO, WORLD.</title>
+  <desc id="desc">濃紺の背景にミント色のアクセントを配したプロフィール用ヘッダー。BUILD / LEARN / SHARE。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c32"/><stop offset="1" stop-color="#111622"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#67e8c6" stop-opacity=".14"/><stop offset="1" stop-color="#67e8c6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#abc1dd" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="150" rx="290" ry="250" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="#2b3c52"/>
+  <rect x="59" y="69" width="44" height="5" rx="2.5" fill="#76e8c7"/>
+  <text x="59" y="150" fill="#f0f5fc" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="62" letter-spacing="1">HELLO, WORLD.</text>
+  <text x="62" y="207" fill="#9dacc0" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="5">BUILD / LEARN / SHARE</text>
+  <g fill="none" stroke="#76e8c7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="884" y="72" width="206" height="156" rx="17" stroke-opacity=".3" stroke-width="2"/>
+    <path d="M884 110H1090" stroke-opacity=".22"/>
+    <path d="M947 143L923 166L947 189M1028 143L1052 166L1028 189M998 137L978 194" stroke-width="6"/>
+  </g>
+  <g fill="#76e8c7" opacity=".7"><circle cx="903" cy="92" r="3"/><circle cx="916" cy="92" r="3"/><circle cx="929" cy="92" r="3"/></g>
+</svg>
